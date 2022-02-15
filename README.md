@@ -1,0 +1,1 @@
+A simple Python proof of concept script to automatically retrieve artifacts from the AppDynamics download page. There is almost no error checking and not much in the way of clever usability features. The goal was to show how to do it; not cover interesting use cases. This script is the starting point for something much more sophisticated.
